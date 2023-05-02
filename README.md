@@ -1,6 +1,6 @@
 <!-- ### Hi there 👋 -->
 
-### Oi! Me chamo Milena wave
+### Oi! Me chamo Milena 👋
 
 Sou estudante do 2º período de engenharia de software na Universidade Positivo e adoro programar e aprender coisas novas.
 
