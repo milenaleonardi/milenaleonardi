@@ -1,19 +1,12 @@
 <!-- ### Hi there 👋 -->
 
-# Milena Leonardi
-## Hello, Devs!!
+### Oi! Me chamo Milena wave
 
-<!--
-**milenaleonardi/milenaleonardi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou estudante do 2º período de engenharia de software na Universidade Positivo e adoro programar e aprender coisas novas.
 
-Here are some ideas to get you started:
+No momento estou aprendendo e desenvolvendo novos projetos na área de Front-End com **HTML, CSS** e **Javascript**. 
+🌱 Caso queira contribuir em algum projeto ou escrever um feedback, fique a vontade :) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##### Você pode entrar em contato comigo pelo [Linkedin](https://www.linkedin.com/in/milena-leonardi/), [Instagram]() ou [E-mail](milena.leonardi@hotmail.com).
+
+
