@@ -13,8 +13,11 @@ Currently I'm studying Full Stack Development with **Javascript** and **C#** whi
 #### ToolBox
 
 Frontend Development: HTML CSS JavaScript
+
 Version Control: Git GitHub
+
 Backend Development: C# .NET
+
 DevOps: Microsoft Azure, Azure DevOps, CI/CD Pipelines, Docker, Kubernetes, Terraform
 
 <!-- ##### Você pode entrar em contato comigo pelo [Linkedin](https://www.linkedin.com/in/milena-leonardi/), [Instagram]() ou [E-mail](milena.leonardi@hotmail.com). -->
