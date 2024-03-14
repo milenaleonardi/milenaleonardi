@@ -1,6 +1,6 @@
 <!-- ### Hi there 👋 -->
 
-## Hello There! I'm Milena 👋
+### Hello There! I'm Milena 👋
 
 I'm a 23-years-old software engineer student based in Brazil, and I'm passionate about programming and always looking to learn new things and find new solutions.
 
