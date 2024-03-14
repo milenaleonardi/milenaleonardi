@@ -8,7 +8,6 @@ I work as a DevSecOps intern at Volvo Group, along with Global and Agile Teams f
 Currently I'm studying Full Stack Development with focus on **Javascript** and **C#** while building new projects and trying to always expand my skills.
 
 🌱 If you would like to contribute in a project ou share a feeback, please feel free!
-
 🌱 I'm always open to new learning and collaboration opportunities.
 
 <br>
