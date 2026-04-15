@@ -4,7 +4,7 @@
 
 Backend Developer with experience in **.NET (C#, ASP.NET Core, EF Core)** and cloud environments.
 
-Currently working at a global company, focusing on building scalable systems, solving critical production issues, and improving system reliability.
+Currently working at a global company, focusing on building scalable systems, solving issues, and improving system reliability.
 
 💡 Strong background in:
 - Backend Development (.NET)
