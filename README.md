@@ -1,13 +1,18 @@
 <!-- ### Hi there 👋 -->
 
-### Hello There! I'm Milena 👋
+## 👋 Hi, I'm Milena
 
-I'm a 23-years-old software engineer student based in Brazil, and I'm passionate about programming and always looking to learn new things and find new solutions.
+Backend Developer with experience in **.NET (C#, ASP.NET Core, EF Core)** and cloud environments.
 
-I work as a .NET Developer at Landis+Gyr, along with Agile Teams/Squads to implement new features, mantainance and improvement of code.
+Currently working at a global company, focusing on building scalable systems, solving critical production issues, and improving system reliability.
 
-🌱 If you would like to contribute in a project ou share a feeback, please feel free! <br>
-    I'm always open to new learning and collaboration opportunities.
+💡 Strong background in:
+- Backend Development (.NET)
+- REST APIs & Distributed Systems
+- Cloud & DevOps (Azure, Docker, Kubernetes)
+- CI/CD & Infrastructure as Code
+
+🚀 Always learning and building real-world solutions.
 
 <br>
 
